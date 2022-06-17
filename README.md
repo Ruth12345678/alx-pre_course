@@ -1,3 +1,3 @@
 My First README
 
-New update from cli to be updates locally
+New update from gui to be updated locally
